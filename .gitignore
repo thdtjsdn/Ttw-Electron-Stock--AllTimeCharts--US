@@ -119,8 +119,6 @@ root/ui_import_custom
 
 ####################################################################################################
 
-chart/***
-
 data/*.csv
 data/*.json
 data/list.csv
@@ -132,6 +130,9 @@ data/list-all.json
 data/Backup/***
 data/Backup_개별/***
 data/Backup_개별_정제/***
+
+data/_장중투자자별매매/***
+data/_종합시황뉴스/***
 
 data/html/***
 
